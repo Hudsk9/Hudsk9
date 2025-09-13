@@ -27,3 +27,7 @@
   <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
+
+<p align="center">
+  <img src="https://github.com/Hudsk9/Hudsk9/blob/main/dist/github-snake.svg" alt="Snake animation" />
+</p>
