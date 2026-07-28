@@ -1,10 +1,6 @@
-## Olá, me chamo Hudson Henrique!
-
-
 - Estudante de Ciência da Computação
 - Estagiário do Instituto Federal do Pará, setor de T.I (IFPA).
 - Entre em contato em: hdd24082019@gmail.com
-
 
 
 ## Conecte-se comigo
